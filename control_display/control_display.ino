@@ -1,8 +1,8 @@
 /*
  * Main unified file for eye animations.
  * Library selection is done in "config.h".
-*/
-#include "display_wrapper.h" // Notre couche d'abstraction
+
+
 
 // --- Constants ---
 const long BAUD_RATE = 115200;
